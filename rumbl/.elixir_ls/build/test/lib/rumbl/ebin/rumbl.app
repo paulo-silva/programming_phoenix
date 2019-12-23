@@ -8,6 +8,7 @@
                         'Elixir.Rumbl.Accounts.User',
                         'Elixir.Rumbl.Application','Elixir.Rumbl.DataCase',
                         'Elixir.Rumbl.Multimedia',
+                        'Elixir.Rumbl.Multimedia.Category',
                         'Elixir.Rumbl.Multimedia.Video','Elixir.Rumbl.Repo',
                         'Elixir.RumblWeb','Elixir.RumblWeb.Auth',
                         'Elixir.RumblWeb.ChannelCase',
